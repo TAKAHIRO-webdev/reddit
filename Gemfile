@@ -39,9 +39,14 @@ gem 'bootsnap', '>= 1.1.0', require: false
 gem 'devise', '~> 4.7'
 
 
+gem 'bootstrap-sass', '~> 3.4', '>= 3.4.1'
 
 
+gem 'acts_as_votable', '~> 0.12.1'
 
+gem 'simple_form'
+
+gem 'record_tag_helper', '~> 1.0'
 
 
 
